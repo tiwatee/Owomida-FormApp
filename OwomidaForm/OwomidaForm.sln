@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwomidaForm", "OwomidaForm.csproj", "{8642CF43-269D-4C6A-949F-F263863B82A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwomidaTest", "..\OwomidaTest\OwomidaTest.csproj", "{329771EC-8454-49E8-9EE5-BAA7BE67D8D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8642CF43-269D-4C6A-949F-F263863B82A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8642CF43-269D-4C6A-949F-F263863B82A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8642CF43-269D-4C6A-949F-F263863B82A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8642CF43-269D-4C6A-949F-F263863B82A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329771EC-8454-49E8-9EE5-BAA7BE67D8D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329771EC-8454-49E8-9EE5-BAA7BE67D8D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329771EC-8454-49E8-9EE5-BAA7BE67D8D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329771EC-8454-49E8-9EE5-BAA7BE67D8D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F6178D-B390-4D4B-8BBD-3A9E55EAF54D}
+	EndGlobalSection
+EndGlobal
